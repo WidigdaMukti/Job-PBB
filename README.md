@@ -2,9 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+## Objek Wisata
 
 This project is a starting point for a Flutter application.
+
+Created by Widigda Rahmamukti
+
+- NIM : 3.34.21.1.24
+- Kelas : IK-2B
+- Angkatan : 2021
+
+![Screenshot_1667391655](https://user-images.githubusercontent.com/117274670/199497908-5ab59415-e559-4e6a-bf85-86a71f4ba389.png)
 
 A few resources to get you started if this is your first Flutter project:
 
